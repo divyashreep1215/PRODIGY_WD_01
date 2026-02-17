@@ -29,6 +29,7 @@ Immersive Grid: A dedicated section to showcase high-quality photos of the parlo
 Smooth Zoom Effect: Images scale up slightly on hover without breaking the layout, adding a layer of polish to the user experience.
 
 
+
 🛠️ Technical Breakdown
 Frontend Structure
 HTML5: Used semantic tags like <header>, <section>, and <footer> for better SEO and code organization.
@@ -40,10 +41,9 @@ Scroll Event Listener: Handles the navbar background change.
 DOM Manipulation: Manages the opening and closing of the mobile menu.
 
 📂 Project Files
+
 index.html: Contains the structure of the home page, about section, menu, and gallery.
-
 style.css: Contains all the design logic, including the responsive media queries.
-
 script.js: Contains the interactive logic for the scrolling effects and mobile navigation.
 
 
