@@ -31,11 +31,17 @@ Smooth Zoom Effect: Images scale up slightly on hover without breaking the layou
 
 
 🛠️ Technical Breakdown
+
 Frontend Structure
+
 HTML5: Used semantic tags like <header>, <section>, and <footer> for better SEO and code organization.
+
 CSS3: * Custom Variables: Used :root variables for colors, making it easy to change the entire theme in one click.
+
 Flexbox & Grid: Used for complex centering and responsive behavior.
+
 Transitions: Applied cubic-bezier timing for more natural-looking animations.
+
 JavaScript (Vanilla):
 Scroll Event Listener: Handles the navbar background change.
 DOM Manipulation: Manages the opening and closing of the mobile menu.
@@ -43,11 +49,14 @@ DOM Manipulation: Manages the opening and closing of the mobile menu.
 📂 Project Files
 
 index.html: Contains the structure of the home page, about section, menu, and gallery.
+
 style.css: Contains all the design logic, including the responsive media queries.
+
 script.js: Contains the interactive logic for the scrolling effects and mobile navigation.
 
 
 🚀 How to Run the Project
+
 Clone this repository to your local machine.
 Navigate to the project folder.
 Open the index.html file in any modern web browser (Chrome, Firefox, Safari).
